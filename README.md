@@ -121,13 +121,3 @@ they are reproducible from configuration.
 
 Access to the host and Docker daemon must be restricted accordingly.
 
-------------------------------------------------------------------------
-
-## 📌 Requirements
-
-- Linux host with systemd
-- Docker Engine
-- Docker Compose V2
-- Restic
-- Backblaze B2 account (application key)
-- MariaDB running in Docker
